@@ -1,2 +1,3 @@
-# Awesome!
-Demo for Strapi built with Gatsby through VSO
+# Strapi application
+
+A quick description of your strapi application
